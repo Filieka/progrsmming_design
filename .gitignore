@@ -64,6 +64,10 @@ dkms.conf
 !.vscode/*.code-snippets
 source/.vscode/*
 
+#
+build/
+runtest/
+
 # Local History for Visual Studio Code
 .history/
 
